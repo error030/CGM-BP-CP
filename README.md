@@ -1,4 +1,4 @@
-#We are speeding up the code cleanup and the code will be made public soon！！！
+# We are speeding up the code cleanup and the code will be made public soon！！！
 # Long-Tailed Classification by Efficient Contrast Learning with High Quality and High Relevance Latent Features 
 Python code for paper entitled "Long-Tailed Classification by Efficient Contrast Learning with High Quality and High Relevance Latent Features"
 
